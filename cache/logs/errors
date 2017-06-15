@@ -1,0 +1,1 @@
+[19-May-2017 11:11:00 -0600]: <5a7f2203> IMAP Error: Login failed for landonw@transfaccapital.com from 65.153.245.146. AUTHENTICATE PLAIN: A0003 NO AUTHENTICATE failed. in /home/wloyphba/public_html/modules/OSSMail/roundcube/program/lib/Roundcube/rcube_imap.php on line 193 (POST /modules/OSSMail/roundcube/?_task=login&_action=login)

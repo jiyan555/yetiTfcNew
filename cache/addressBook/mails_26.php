@@ -1,0 +1,1 @@
+<?php $bookMails = ['Bill Pitner <bill.pitner@bmo.com>','Ryan Dinelli <ryan.dinelli@bmo.com>','Todd Jobes <todd.jobes@bmo.com>','Bob Catini <robert.catini@bmo.com>','Joe Hani <joseph.hani@bmo.com>','Mike Chilvers <mike.chilvers@bmo.com>','Rasheena hawkins <rasheena.hawkins@bmo.com>',];

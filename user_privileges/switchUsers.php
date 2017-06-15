@@ -1,0 +1,3 @@
+<?php
+$switchUsersRaw = ['1'=>['5','10','13','15','19','21','22','23','26','29','33','34','35'],'23'=>['33'],];
+$switchUsers = ['1'=>[1 => ' Admin',13 => 'Alex Uribe',15 => 'Arturo Osuna',34 => 'Ben Duckworth',35 => 'Don Carvelas',33 => 'George Iso',22 => 'Jamie McInelly',5 => 'Kelly Crestani',21 => 'Kristina Porter',10 => 'Landon Wells',29 => 'Nate Lystrup',23 => 'Rachel Beall',26 => 'Seth Myers',19 => 'Tanya Fontenot'],'23'=>[23 => 'Rachel Beall',33 => 'George Iso'],];

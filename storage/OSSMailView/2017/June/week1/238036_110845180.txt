@@ -1,0 +1,46 @@
+TO: sousley@transfac.com                                   
+Content-Type: Text
+Content-length: 005762
+
+                                                                                                                                    
+Program-id: FAX001                                                                                                                  
+ACCOUNT# 110845                                                                                                      PAGE NO#:   1  
+BRANCH#      99                                                                                                      DATE:06/02/17  
+                                                                                                                                    
+MAIL TO:     TRANSFAC CAPITAL LLC                                             ACCOUNT NUMBER:  110845      STATEME DATE : 06/01/17  
+             257 EAST 200 SOUTH - STE                                         BRANCH  NUMBER:      99      REFERENCE NO#:  2017152  
+             SALT LAKE CITY, UT       84111                                                                                         
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ CARD   UNIT   AUTH    PURCHASE   TRUCK      TRUCKSTOP       PD QTY/OR  PROD  PRICE PD QTY/OR  PROD  SALES INVOICE    FEE/  AMOUNT  
+NUMBER NUMBER  CODE      DATE     STOP#   NAME/CITY/STATE    CD NUMBER AMOUNT  GAL  CD NUMBER AMOUNT  TAX   AMOUNT      DSC    DUE  
+----------------------------------------------------------------------------------------------------------------------------------  
+                                                                                         FUEL CARD CHARGES TODAY             0.00   
+   TOTAL CHARGES    -EFS FUNDED               TRANSACTION FEES -EFS FUNDED               FUEL CARD CHARGES-EFS FUNDED        0.00   
+   TOTAL CHARGES    -DIRECT                   TRANSACTION FEES -DIRECT                   FUEL CARD CHARGES-DIRECT            0.00   
+*  PRODUCT SUMMARY FOR TRANSACTIONS                                                                                                 
+FUEL.GALLONS       0.00   NH.DSL.GALS      0.00   NH.GAS.GALS      0.00   ADDITIVES...$      0.00   MINOR.PARTS.$      0.00         
+FUEL.DOLLARS$      0.00   NONHWY.DSL$      0.00   NONHWY.GAS$      0.00   SCALES......$      0.00   MINOR.REPAIR$      0.00         
+AVERAGE.PRICE/GAL 0.000   OIL.......$      0.00   CASH.ADV..$      0.00   TIRE.REPAIR.$      0.00   SALES TAX...$      0.00         
+TOTAL FEES       0.00       TOTAL DISCOUNTS       0.00                TRANSCHK CASH...$      0.00   DEF.........$      0.00         
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                PAY THIS AMOUNT:          0.00                                                      
+                                                                                                                                    
+                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+ACCOUNT:110845      DAILY TRANSCHECK REPORT FOR 06/01/17           BRANCH:000099                                                    
+                                                                                                                                    
+BOOK-TRANS-CODE DATE   LOCATION USED   CHECK TRANSFER    EFS           TRANSFER                                                     
+    NUMBERS     USED   PHONE NUMBER   NUMBER  AMOUNT     FEE           BALANCE                                                      
+--------------------------------------------------------------------------------                                                    
+189-2533768-000 06/01  770-403-2698 116872064 1,134.00   2.00           1,136.00                                                    
+                                  VRU AUTH.                                                                                         
+189-2612072-000 06/01  801-786-4178 115988463    80.00   2.00              82.00                                                    
+                                  VRU AUTH.                                                                                         
+189-2697480-000 06/01  770-403-2698 116872060   708.50   2.00             710.50                                                    
+                                  VRU AUTH.                                                                                         
+   3 TRANSCHECKS AUTHORIZED YESTERDAY.        TOTAL TRANSCHECK BILLING  1,928.50                                                    

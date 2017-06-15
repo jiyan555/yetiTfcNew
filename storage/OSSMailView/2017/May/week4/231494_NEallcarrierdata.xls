@@ -1,0 +1,10131 @@
+
+
+<table>
+<tr>
+	
+	<td>POLICY</td>
+	
+	<td>DOCKET</td>
+	<td>USDOT</td>
+	<td>LEGALNAME</td>
+	<td>DBANAME</td>
+	<td>ADDRESS</td>
+	<td>CITY</td>
+	<td>STATE</td>
+	<td>ZIP</td>
+	<td>PHONE</td>
+	<td>FAX</td>
+	<td>EMAIL</td>
+	<td>CONTACT1</td>
+	<td>CONTACT2</td>
+	<td>TRUCKS</td>
+	<td>HAZMATCERT</td>
+	<td>COMMON</td>
+	<td>CONTRACT</td>
+	<td>BROKER</td>
+	<td>PENDCOMMON</td>
+	<td>PENDCONTRACT</td>
+	<td>PENDBROKER</td>
+	<td>REVCOMMON</td>
+	<td>REVCONTRACT</td>
+	<td>REVBROKER</td>
+	<td>BIPDREQ</td>
+	<td>BIPDFILED</td>
+	<td>CARGOREQ</td>
+	<td>CARGOFILED</td>
+	<td>BONDREQ</td>
+	<td>BONDFILED</td>
+	<td>INSAUTHUPDATED</td>
+	
+	<td>RATING</td>
+	<td>RATEDATE</td>
+	
+	<td>UNSAFEDRIVMEAS</td>
+	<td>UNSAFEDRIVMEASINDAVG</td>
+	<td>HOSCOMPMEAS</td>
+	<td>HOSCOMPMEASINDAVG</td>
+	<td>DRIVFITMEAS</td>
+	<td>DRIVFITMEASINDAVG</td>
+	<td>CONTRSUBSTMEAS</td>
+	<td>CONTRSUBSTMEASINDAVG</td>
+	<td>VEHMAINTMEAS</td>
+	<td>VEHMAINTMEASINDAVG</td>
+	
+	<td>EXPORTED</td>
+</tr>
+
+<tr>
+	
+	<td>NOT ACCEPTABLE</td>
+	
+	<td>FF015400</td>
+	
+	<td></td>
+	
+	<td>JEREMIAH BAIER</td>
+	<td>PB&J WELDING SUPPLY</td>
+	<td>348 N MAIN ST</td>
+	<td>FREMONT</td>
+	<td>NE</td>
+	<td>68025</td>
+	
+	<td>4027277817</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>0</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/15/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td></td>
+		
+		<td>1.74</td>
+		
+			<td></td>
+		
+		<td>0.76</td>
+		
+			<td></td>
+		
+		<td>0.18</td>
+		
+			<td></td>
+		
+		<td>0.0080</td>
+		
+			<td></td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC526234</td>
+	
+	<td>2234386</td>
+	
+	<td>STAR LOGISTICS, INC.</td>
+	<td></td>
+	<td>3850 SOUTH 149TH ST SUITE 111</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68144</td>
+	
+	<td>8667307827</td>
+	
+	<td>4028960969</td>
+	
+	<td>doug@star-logistics.net</td>
+	
+	<td>GENE LOFFREDO</td>
+	
+	<td>DOUGLAS L KERNS JR</td>
+	
+	<td>     11</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>Y</td>
+	
+	<td>04/27/2016</td>
+	
+	<td></td>
+	
+	<td>12/22/2011</td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC546525</td>
+	
+	<td>2235558</td>
+	
+	<td>KOOL LOGISTICS LLC</td>
+	<td></td>
+	<td>3850 S 149TH STREET SUITE 103</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68144</td>
+	
+	<td>4022654828</td>
+	
+	<td>4029321654</td>
+	
+	<td>makins@koollogistics.com</td>
+	
+	<td>GARRY ROWE</td>
+	
+	<td>BRAD BROADSTONE</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>Y</td>
+	
+	<td>07/29/2016</td>
+	
+	<td></td>
+	
+	<td>12/22/2011</td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC739138</td>
+	
+	<td>2120775</td>
+	
+	<td>EVER E MARTINEZ</td>
+	<td>POOR BOY TRUCKING</td>
+	<td>44233 ROAD 756</td>
+	<td>LEXINGTON</td>
+	<td>NE</td>
+	<td>68850</td>
+	
+	<td>3083258457</td>
+	
+	<td>3085374221</td>
+	
+	<td>csoller@centralstatesli.com</td>
+	
+	<td>EVER E MARTINEZ</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/12/2016</td>
+	
+	<td></td>
+	
+	<td>03/13/2011</td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>6.0</td>
+		
+		<td>0.76</td>
+		
+			<td>2.14</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>30.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC852635</td>
+	
+	<td>2466687</td>
+	
+	<td>CURTIS M DOBSON & COREY J DOBSON</td>
+	<td>DOBSON FARMS</td>
+	<td>306 N 7TH ST</td>
+	<td>CEDAR RAPIDS</td>
+	<td>NE</td>
+	<td>68627</td>
+	
+	<td>4023660066</td>
+	
+	<td></td>
+	
+	<td>cdobson81@hotmail.com</td>
+	
+	<td>CURTIS DOBSON</td>
+	
+	<td>COREY J DOBSON</td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/30/2016</td>
+	
+	<td></td>
+	
+	<td>04/10/2014</td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC911260</td>
+	
+	<td>2594507</td>
+	
+	<td>DOMINO, L.L.C.</td>
+	<td></td>
+	<td>54814 850 3/4RD</td>
+	<td>PIERCE</td>
+	<td>NE</td>
+	<td>68767</td>
+	
+	<td>4026407556</td>
+	
+	<td>4023732999</td>
+	
+	<td>miller.dominic.dm@gmail.com</td>
+	
+	<td>DOMINIC MILLER</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC921963</td>
+	
+	<td>1855871</td>
+	
+	<td>NIEMEYER TRUCKING LLC</td>
+	<td>NIEMEYER FARMS</td>
+	<td>2335 W ASPEN ROAD</td>
+	<td>CORTLAND</td>
+	<td>NE</td>
+	<td>68331</td>
+	
+	<td>4027980240</td>
+	
+	<td>4027980240</td>
+	
+	<td>niemeyerjohn@gmail.com</td>
+	
+	<td>JOHN P. NIEMEYER</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/17/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>1.0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC935079</td>
+	
+	<td>2799694</td>
+	
+	<td>4C TRUCKING, LLC</td>
+	<td></td>
+	<td>2700 LAKEVIEW LOT LL</td>
+	<td>GOTHENBURG</td>
+	<td>NE</td>
+	<td>69138</td>
+	
+	<td>3085298858</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>SHAWN COLSON</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/13/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC942032</td>
+	
+	<td>2629003</td>
+	
+	<td>BUS AT THE YARD LLC</td>
+	<td>LUXURY LIMOUSINE</td>
+	<td>4210 S 33RD STREET STE 230</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68506</td>
+	
+	<td>4022695739</td>
+	
+	<td></td>
+	
+	<td>katie@luxurylimone.com</td>
+	
+	<td>ERIC F MARSH</td>
+	
+	<td>KATIE  DANEHEI</td>
+	
+	<td>      8</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>15.25</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC960349</td>
+	
+	<td>2865446</td>
+	
+	<td>AJK TOWING LLC</td>
+	<td></td>
+	<td>5067 S 87TH ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68127</td>
+	
+	<td>4023018180</td>
+	
+	<td></td>
+	
+	<td>ajktowing1@gmail.com</td>
+	
+	<td>JEFF CHIRINO</td>
+	
+	<td>CARLOS CHIRINO</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>04/22/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC960656</td>
+	
+	<td>2867050</td>
+	
+	<td>NEBRASKA DISTILLERS PRODUCTS, LLC</td>
+	<td></td>
+	<td>1501 M STREET</td>
+	<td>ORD</td>
+	<td>NE</td>
+	<td>68862</td>
+	
+	<td>3087285088</td>
+	
+	<td>3087285089</td>
+	
+	<td>tkruml@ordlegal.com</td>
+	
+	<td>THOMAS S KRUML</td>
+	
+	<td>GAYLORD BOILESEN</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/09/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>12.0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC962588</td>
+	
+	<td>2870836</td>
+	
+	<td>MED EXPEDITED INC</td>
+	<td></td>
+	<td>8600 SANDALWOOD DR</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68520</td>
+	
+	<td>4023044235</td>
+	
+	<td></td>
+	
+	<td>husovickenan@yahoo.com</td>
+	
+	<td>KENAN HUSOVIC</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC962838</td>
+	
+	<td>2870129</td>
+	
+	<td>CAL CREATIONS LLC</td>
+	<td></td>
+	<td>15740 W CENTER RD</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68130-1859</td>
+	
+	<td>4029812403</td>
+	
+	<td>4023308940</td>
+	
+	<td>cal212780@gmail.com</td>
+	
+	<td>CHRISTOPHER A LEACH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/16/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC963257</td>
+	
+	<td>2872178</td>
+	
+	<td>RICK HOOVER TRUCKING LLC</td>
+	<td></td>
+	<td>6710 SW 91ST ST</td>
+	<td>DENTON</td>
+	<td>NE</td>
+	<td>68339</td>
+	
+	<td>4023141041</td>
+	
+	<td></td>
+	
+	<td>rhoover0@gmail.com</td>
+	
+	<td>RICHARD L HOOVER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC963539</td>
+	
+	<td>2847288</td>
+	
+	<td>HAUXWELL PUMP AND SUPPLY</td>
+	<td>MARK R HAUXWELL</td>
+	<td>39677 DRIVE 717</td>
+	<td>INDIANOLA</td>
+	<td>NE</td>
+	<td>69034-5000</td>
+	
+	<td>3083642840</td>
+	
+	<td>3083642850</td>
+	
+	<td>mrhauxwell@gpcom.net</td>
+	
+	<td>AMANDA ADAMS</td>
+	
+	<td></td>
+	
+	<td>      4</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>04/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC963698</td>
+	
+	<td>2873154</td>
+	
+	<td>GDL TRANSPORT LLC</td>
+	<td></td>
+	<td>76489 ROAD 420</td>
+	<td>COZAD</td>
+	<td>NE</td>
+	<td>69130</td>
+	
+	<td>3085298967</td>
+	
+	<td></td>
+	
+	<td>gdltransportllc@gmail.com</td>
+	
+	<td>GAROLD LAMBERT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC963913</td>
+	
+	<td>2873632</td>
+	
+	<td>OPEN PLUS TRANSPORTATION LLC</td>
+	<td></td>
+	<td>81041 ROAD 430</td>
+	<td>ANSELMO</td>
+	<td>NE</td>
+	<td>68813</td>
+	
+	<td>3088703291</td>
+	
+	<td></td>
+	
+	<td>jlau@nebtrucking.com</td>
+	
+	<td>ALEX BURNETT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>30.0</td>
+		
+		<td>1.74</td>
+		
+			<td>8.33</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>17.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC963939</td>
+	
+	<td>2873676</td>
+	
+	<td>ERIC T SMITH</td>
+	<td>SMITH TRUCKING</td>
+	<td>115 W 4TH ST</td>
+	<td>WAYNE</td>
+	<td>NE</td>
+	<td>68787</td>
+	
+	<td>4023755033</td>
+	
+	<td></td>
+	
+	<td>erovia@gmail.com</td>
+	
+	<td>ERIC T SMITH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>1.66</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>14.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC964386</td>
+	
+	<td>2874545</td>
+	
+	<td>GRAVERT TRUCKING LLC</td>
+	<td></td>
+	<td>1202 COURT ST APT 1</td>
+	<td>FORT CALHOUN</td>
+	<td>NE</td>
+	<td>68023</td>
+	
+	<td>4022124108</td>
+	
+	<td></td>
+	
+	<td>trophybuck81@gmail.com</td>
+	
+	<td>DEAN GRAVERT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>24.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC964650</td>
+	
+	<td>2872849</td>
+	
+	<td>TOM'S TRANSPLANTING LLC</td>
+	<td>D AND R TRUCKING</td>
+	<td>1839 E 4TH ST</td>
+	<td>GRAND ISLAND</td>
+	<td>NE</td>
+	<td>68801</td>
+	
+	<td>3083821683</td>
+	
+	<td>3083821683</td>
+	
+	<td>kstates@live.com</td>
+	
+	<td>TOM LEE UMMEL SR.</td>
+	
+	<td>TOM UMMEL JR</td>
+	
+	<td>      3</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/09/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>4.0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>11.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965158</td>
+	
+	<td>2876127</td>
+	
+	<td>GRANT HEIMES</td>
+	<td></td>
+	<td>88675 567 AVE</td>
+	<td>HARTINGTON</td>
+	<td>NE</td>
+	<td>68739</td>
+	
+	<td>4028411715</td>
+	
+	<td></td>
+	
+	<td>glheimes@hartel.net</td>
+	
+	<td>GRANT HEIMES</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/04/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965397</td>
+	
+	<td>495132</td>
+	
+	<td>JOE ORTEGA</td>
+	<td>ORTEGA TRUCKING</td>
+	<td>300 WEST 1ST STREET</td>
+	<td>BIG SPRINGS</td>
+	<td>NE</td>
+	<td>69122</td>
+	
+	<td>3088893229</td>
+	
+	<td></td>
+	
+	<td>ajanssen21@gmail.com</td>
+	
+	<td>JOE C ORTEGA</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>04/29/2016</td>
+	
+	<td>S</td>
+	
+	<td>06/21/2002</td>
+	
+			<td>4.0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965449</td>
+	
+	<td>1834743</td>
+	
+	<td>JASON L ESTRADA</td>
+	<td>J&A EXPRESS</td>
+	<td>410 WEST 9TH ST</td>
+	<td>BRULE</td>
+	<td>NE</td>
+	<td>69127</td>
+	
+	<td>3082891437</td>
+	
+	<td></td>
+	
+	<td>donnaj967@aol.com</td>
+	
+	<td>JASON ESTRADA</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>04/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965561</td>
+	
+	<td>2876952</td>
+	
+	<td>WILLIAMS TRANSPORTATION INC</td>
+	<td></td>
+	<td>21757 PLATTEVIEW RD</td>
+	<td>GRETNA</td>
+	<td>NE</td>
+	<td>68028</td>
+	
+	<td>4023322040</td>
+	
+	<td>4023322041</td>
+	
+	<td>randy@williamstransport.com</td>
+	
+	<td>RANDY A WILLIAMS</td>
+	
+	<td></td>
+	
+	<td>     10</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/26/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965585</td>
+	
+	<td>916540</td>
+	
+	<td>GROTRIAN ENTERPRISES INC</td>
+	<td></td>
+	<td>73128 HWY 105</td>
+	<td>JOHNSON</td>
+	<td>NE</td>
+	<td>68378</td>
+	
+	<td>4028685025</td>
+	
+	<td></td>
+	
+	<td>vstreeter@nebtrucking.com</td>
+	
+	<td>DEREK GROTRIAN</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>7.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965591</td>
+	
+	<td>2839845</td>
+	
+	<td>MCCARTY LTD.</td>
+	<td></td>
+	<td>10808 RAINWOOD ROAD</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68142</td>
+	
+	<td>4058343152</td>
+	
+	<td></td>
+	
+	<td>mccartyltd@gmail.com</td>
+	
+	<td>JOHN BYER MCCARTY</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965693</td>
+	
+	<td>2559121</td>
+	
+	<td>JECKKOLZS ENTERPRISE LLC</td>
+	<td></td>
+	<td>602  CHERRY</td>
+	<td>BRULE</td>
+	<td>NE</td>
+	<td>69127</td>
+	
+	<td>3082896747</td>
+	
+	<td></td>
+	
+	<td>crystallehl@yahoo.com</td>
+	
+	<td>JEREMY OLSON</td>
+	
+	<td>JERMEY OLSON</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/24/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965742</td>
+	
+	<td>2877281</td>
+	
+	<td>DAGOODS GROUP</td>
+	<td>DAGOODS TRUCKING</td>
+	<td>1314 N 113TH CT APT 4603</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68154</td>
+	
+	<td>4028130800</td>
+	
+	<td></td>
+	
+	<td>dagoodstrucking@gmail.com</td>
+	
+	<td>DARIUS JOHNSON</td>
+	
+	<td>ROBERT JOHNSON</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/07/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC965817</td>
+	
+	<td>2877449</td>
+	
+	<td>2CAN EXPRESS INC</td>
+	<td></td>
+	<td>4722 N 65TH ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68104</td>
+	
+	<td>4025479190</td>
+	
+	<td></td>
+	
+	<td>david.jump9130@gmail.com</td>
+	
+	<td>DAVID JUMP</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/04/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966268</td>
+	
+	<td>911015</td>
+	
+	<td>RANDALL C HARTSUIKER</td>
+	<td>HARTSUIKER TRANSPORT</td>
+	<td>1760 HWY 30 WEST</td>
+	<td>BIG SPRINGS</td>
+	<td>NE</td>
+	<td>69122</td>
+	
+	<td>7192424550</td>
+	
+	<td>8005195561</td>
+	
+	<td>hartsuikerrock@gmail.com</td>
+	
+	<td>RANDALL C HARTSUIKER</td>
+	
+	<td>CYNTHIA HARTSUIKER</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>Y</td>
+	
+	<td>05/18/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966461</td>
+	
+	<td>2355500</td>
+	
+	<td>2 N TRANSFER LLC</td>
+	<td></td>
+	<td>83080 553 1/2 AVE</td>
+	<td>MADISON</td>
+	<td>NE</td>
+	<td>68748</td>
+	
+	<td>4029921535</td>
+	
+	<td>4023714897</td>
+	
+	<td>4ncattle@telebeep.com</td>
+	
+	<td>NEAL NEIDIG</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966630</td>
+	
+	<td>2880671</td>
+	
+	<td>EDGAR ESCALERA</td>
+	<td>ESCALERA TRUCKING</td>
+	<td>19016 C ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68130</td>
+	
+	<td>4026142865</td>
+	
+	<td></td>
+	
+	<td>eescalera2012@gmail.com</td>
+	
+	<td>BERENICE JIMENEZ</td>
+	
+	<td>EDGAR OSWALDO ESCALERA</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966724</td>
+	
+	<td>2880853</td>
+	
+	<td>BOGGY CREEK EXPRESS LLC</td>
+	<td></td>
+	<td>401 1ST STREET</td>
+	<td>SCOTIA</td>
+	<td>NE</td>
+	<td>68875</td>
+	
+	<td>2709703146</td>
+	
+	<td></td>
+	
+	<td>dmorrison@comprehensiveremolding.com</td>
+	
+	<td>GLENDON DALE UNRUH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966876</td>
+	
+	<td>179660</td>
+	
+	<td>FILSINGER EXCAVATING CO IN</td>
+	<td></td>
+	<td>2365 JACKSON ST</td>
+	<td>SIDNEY</td>
+	<td>NE</td>
+	<td>69162</td>
+	
+	<td>3082544670</td>
+	
+	<td>3082546091</td>
+	
+	<td>filsingerservices@hotmail.com</td>
+	
+	<td>ORVILLE FILSINGER</td>
+	
+	<td>MARVIN FILSINGER</td>
+	
+	<td>      8</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/22/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>5.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC966953</td>
+	
+	<td>2881296</td>
+	
+	<td>PNP LOGISTICS, INC</td>
+	<td></td>
+	<td>6316 TANGLEWOOD LN</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68516</td>
+	
+	<td>4024036073</td>
+	
+	<td>4024036073</td>
+	
+	<td>dijanap@logisticsinc.com</td>
+	
+	<td>DIJANA DULOVIC</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967105</td>
+	
+	<td>2881602</td>
+	
+	<td>HIGGS TRUCKING, LLC</td>
+	<td></td>
+	<td>6644 FRANKLIN ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68104</td>
+	
+	<td>4029608559</td>
+	
+	<td></td>
+	
+	<td>jwh8559@gmail.com</td>
+	
+	<td>JOHN WESTLEY HIGGS</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/10/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967175</td>
+	
+	<td>2881724</td>
+	
+	<td>TRIPLE C TRANSPORTATION LLC</td>
+	<td></td>
+	<td>9229 MORMON BRIDGE RD STE 6</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68152</td>
+	
+	<td>4024532468</td>
+	
+	<td>4024534513</td>
+	
+	<td>tom.gruidel@cubbys.com</td>
+	
+	<td>THOMAS GRUIDEL</td>
+	
+	<td>CHERYL DILLON</td>
+	
+	<td>      3</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>2.33</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967210</td>
+	
+	<td>2881790</td>
+	
+	<td>HOOF-N-IT HOTSHOTS LLC</td>
+	<td></td>
+	<td>221 W 2ND ST</td>
+	<td>STROMSBURG</td>
+	<td>NE</td>
+	<td>68666</td>
+	
+	<td>3253383323</td>
+	
+	<td></td>
+	
+	<td>hoofnithotshotsllc@gmail.com</td>
+	
+	<td>SHERILEE SIMPSON</td>
+	
+	<td>MICHAEL W SIMPSON</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967264</td>
+	
+	<td>2880687</td>
+	
+	<td>TANNER MILLER</td>
+	<td>MILLER TYME TRUCKING</td>
+	<td>2402 W 17TH ST</td>
+	<td>NORTH PLATTE</td>
+	<td>NE</td>
+	<td>69101-2142</td>
+	
+	<td>3085689369</td>
+	
+	<td></td>
+	
+	<td>millertymetrucking@gmail.com</td>
+	
+	<td>TANNER MILLER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>4.66</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967683</td>
+	
+	<td>2882990</td>
+	
+	<td>BARRY F DOSTERT</td>
+	<td>K BARR J TRUCKING</td>
+	<td>621 ROAD 5600</td>
+	<td>DESHLER</td>
+	<td>NE</td>
+	<td>68340</td>
+	
+	<td>4024695572</td>
+	
+	<td></td>
+	
+	<td>vstreeter@nebtrucking.com</td>
+	
+	<td>BARRY F DOSTERT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/08/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>15.0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967753</td>
+	
+	<td>2883113</td>
+	
+	<td>FIRST CHOICE INSTALLATIONS INC</td>
+	<td></td>
+	<td>216 WEDGEWOOD DR</td>
+	<td>S SIOUX CITY</td>
+	<td>NE</td>
+	<td>68776</td>
+	
+	<td>7128996035</td>
+	
+	<td></td>
+	
+	<td>fcinstallations@gmail.com</td>
+	
+	<td>MICHAEL BAUSCH</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC967923</td>
+	
+	<td>2435270</td>
+	
+	<td>AARON WINGERT</td>
+	<td>WINGERT TRUCKING</td>
+	<td>109 5TH STREET</td>
+	<td>HOMER</td>
+	<td>NE</td>
+	<td>68030</td>
+	
+	<td>7124904384</td>
+	
+	<td></td>
+	
+	<td>aaronwingert25@gmail.com</td>
+	
+	<td>AARON WINGERT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/18/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>3.27</td>
+		
+		<td>1.74</td>
+		
+			<td>1.12</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>5.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC968340</td>
+	
+	<td>2568035</td>
+	
+	<td>5 H TRUCKING LLC</td>
+	<td></td>
+	<td>1293 H AVE</td>
+	<td>PENDER</td>
+	<td>NE</td>
+	<td>68047</td>
+	
+	<td>4023852296</td>
+	
+	<td></td>
+	
+	<td>larry.heese@cvacoop.com</td>
+	
+	<td>LARRY HEESE</td>
+	
+	<td>LEVI HEESE</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/20/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>5.33</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0.5</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC968483</td>
+	
+	<td>1217965</td>
+	
+	<td>BRIAN WINKELBAUER</td>
+	<td>WINKELBAUER AUTO SALES</td>
+	<td>113 MAIN ST</td>
+	<td>RANDOLPH</td>
+	<td>NE</td>
+	<td>68771</td>
+	
+	<td>4023600828</td>
+	
+	<td></td>
+	
+	<td>brianwinkelbauer@yahoo.com</td>
+	
+	<td>MR. BRIAN WINKELBAUER</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/20/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC968646</td>
+	
+	<td>2884969</td>
+	
+	<td>GAURDIAN ENTERPRISES, INC.</td>
+	<td>GAURDIAN TOWING</td>
+	<td>4256 REDMAN AVE</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68111</td>
+	
+	<td>4025588697</td>
+	
+	<td></td>
+	
+	<td>frank@crosstc.com</td>
+	
+	<td>FRANCIS RICHARD BARTLETT III</td>
+	
+	<td>BRENDA KAY BANKS</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/30/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC968866</td>
+	
+	<td>2886122</td>
+	
+	<td>NACOL TRUCKING LLC</td>
+	<td></td>
+	<td>1304 N DELAWARE AVE</td>
+	<td>YORK</td>
+	<td>NE</td>
+	<td>68467</td>
+	
+	<td>4023660715</td>
+	
+	<td></td>
+	
+	<td>knacol1282@gmail.com</td>
+	
+	<td>KEVIN NACOL</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/30/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>5.25</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>2.5</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC969139</td>
+	
+	<td>2385342</td>
+	
+	<td>STENE TRANSPORTATION LLC</td>
+	<td></td>
+	<td>806 S 262ND ST</td>
+	<td>WATERLOO</td>
+	<td>NE</td>
+	<td>68069</td>
+	
+	<td>4026994957</td>
+	
+	<td></td>
+	
+	<td>stenetransportationllc@gmail.com</td>
+	
+	<td>NATE STENE</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>05/25/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>5.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC969300</td>
+	
+	<td>2887117</td>
+	
+	<td>FYI INC</td>
+	<td></td>
+	<td>49111 HIGHWAY 20</td>
+	<td>ONEILL</td>
+	<td>NE</td>
+	<td>68763</td>
+	
+	<td>3083903940</td>
+	
+	<td>4023362714</td>
+	
+	<td>troysidak74@yahoo.com</td>
+	
+	<td>TROY SIDAK</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/12/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC969873</td>
+	
+	<td>2888259</td>
+	
+	<td>TTMAB EXPRESS LLC</td>
+	<td></td>
+	<td>5117 N 14TH ST E</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68110</td>
+	
+	<td>4029687255</td>
+	
+	<td></td>
+	
+	<td>ttmabexpressllc@gmail.com</td>
+	
+	<td>WAYNE A WORTH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>8.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC970493</td>
+	
+	<td>2889300</td>
+	
+	<td>GEYKEL CONTRERAS</td>
+	<td>CONTRERAS TRANSPORT</td>
+	<td>205 W C ST</td>
+	<td>HASTINGS</td>
+	<td>NE</td>
+	<td>68901</td>
+	
+	<td>3083701366</td>
+	
+	<td>7864108814</td>
+	
+	<td>geykel85@gmail.com</td>
+	
+	<td>GEYKEL CONTRERAS SR.</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/21/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>2.0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC970608</td>
+	
+	<td>2889579</td>
+	
+	<td>G M R TRUCKING LLC</td>
+	<td></td>
+	<td>1969 ROAD 5000</td>
+	<td>DAVENPORT</td>
+	<td>NE</td>
+	<td>68335</td>
+	
+	<td>4023643266</td>
+	
+	<td>3085374221</td>
+	
+	<td>csoller@centralstatesli.com</td>
+	
+	<td>MARIAN REECE</td>
+	
+	<td>GREGORY REECE</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/07/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC970939</td>
+	
+	<td>1025947</td>
+	
+	<td>COUNTRY TRUCK SALES INC</td>
+	<td></td>
+	<td>5210 NORTH OLIVER STREET</td>
+	<td>FREMONT</td>
+	<td>NE</td>
+	<td>68025</td>
+	
+	<td>4027530044</td>
+	
+	<td>4027530266</td>
+	
+	<td>countrytruckkenm@cs.com</td>
+	
+	<td>KEN L MOLACEK</td>
+	
+	<td>GEROGIO MOLACEK</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/17/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC971059</td>
+	
+	<td>2891142</td>
+	
+	<td>ROBERT SCHUTT</td>
+	<td>ROBERT SCHUTT TRUCKING</td>
+	<td>308 S MAIN ST</td>
+	<td>RANDOLPH</td>
+	<td>NE</td>
+	<td>68771</td>
+	
+	<td>4023603971</td>
+	
+	<td></td>
+	
+	<td>robertschutt96@gmail.com</td>
+	
+	<td>ROBERT SCHUTT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/12/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC971632</td>
+	
+	<td>2892412</td>
+	
+	<td>MWT LOGISTICS INC</td>
+	<td></td>
+	<td>1300 URBANA LN</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68505</td>
+	
+	<td>4023185455</td>
+	
+	<td>4023185455</td>
+	
+	<td>gonzalesb1@gmail.com</td>
+	
+	<td>LLOYD KEVIN WESCOTT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/28/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972102</td>
+	
+	<td>2893359</td>
+	
+	<td>WORTH TRUCKING LLC</td>
+	<td></td>
+	<td>42035 APPLE ST</td>
+	<td>SPRINGVIEW</td>
+	<td>NE</td>
+	<td>68778</td>
+	
+	<td>4023891710</td>
+	
+	<td>4024973476</td>
+	
+	<td>rworth@threeriver.net</td>
+	
+	<td>RONALD WORTH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/07/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>21.0</td>
+		
+		<td>1.74</td>
+		
+			<td>3.5</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972242</td>
+	
+	<td>2893621</td>
+	
+	<td>POLAR BEAR EXPRESS LLC</td>
+	<td></td>
+	<td>1306 TAHAZOUKA RD</td>
+	<td>NORFOLK</td>
+	<td>NE</td>
+	<td>68701</td>
+	
+	<td>4023716606</td>
+	
+	<td>4023714897</td>
+	
+	<td>skbookkeeping@telebeep.com</td>
+	
+	<td>HEATH D HARRISON</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/28/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972247</td>
+	
+	<td>722209</td>
+	
+	<td>BRICE KOEHN</td>
+	<td></td>
+	<td>79844 ASHTON AVE</td>
+	<td>NORTH LOUP</td>
+	<td>NE</td>
+	<td>68859</td>
+	
+	<td>6625493408</td>
+	
+	<td>6627265172</td>
+	
+	<td>poboy.koehn@gmail.com</td>
+	
+	<td>BRICE KOEHN</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/14/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972353</td>
+	
+	<td>2893828</td>
+	
+	<td>BLAINE HARMS TRUCKING, INC.</td>
+	<td></td>
+	<td>2707 SCOTT ST</td>
+	<td>BEATRICE</td>
+	<td>NE</td>
+	<td>68310</td>
+	
+	<td>4022392696</td>
+	
+	<td></td>
+	
+	<td>harmsfarms@outlook.com</td>
+	
+	<td>BLAINE MICHAEL HARMS</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972709</td>
+	
+	<td>2894896</td>
+	
+	<td>JAMES MALIK</td>
+	<td>MALIK TRUCKING</td>
+	<td>218 SOUTH ELM</td>
+	<td>MEAD</td>
+	<td>NE</td>
+	<td>68041</td>
+	
+	<td>4024437053</td>
+	
+	<td>4026242825</td>
+	
+	<td>maliktrucking@icloud.com</td>
+	
+	<td>JAMES MALIK</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/26/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972775</td>
+	
+	<td>2895047</td>
+	
+	<td>DBN LLC</td>
+	<td></td>
+	<td>11758 733 RD</td>
+	<td>HOLDREGE</td>
+	<td>NE</td>
+	<td>68949</td>
+	
+	<td>3089913320</td>
+	
+	<td></td>
+	
+	<td>nick.orcutt@yahoo.com</td>
+	
+	<td>NICHOLAS JOHN ORCUTT</td>
+	
+	<td>BRENTON SCOTT OLSON</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/15/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972789</td>
+	
+	<td>2895066</td>
+	
+	<td>LEISURE LIMOUSINE AND SEDAN, INC.</td>
+	<td></td>
+	<td>1835 WEST O ST SUITE B</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68528</td>
+	
+	<td>4024768132</td>
+	
+	<td>4024768129</td>
+	
+	<td>ride@leisurelimoservices.com</td>
+	
+	<td>LORI JEAN HIEBNER</td>
+	
+	<td>LYNDON DALE HIEBNER</td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC972881</td>
+	
+	<td>2895321</td>
+	
+	<td>DALTON LOCKWOOD</td>
+	<td>D DOUBLE L FARMS</td>
+	<td>3244 CR 27 WEST</td>
+	<td>KIMBALL</td>
+	<td>NE</td>
+	<td>69145</td>
+	
+	<td>3082411851</td>
+	
+	<td>3082353512</td>
+	
+	<td>bobacpa@embarqmail.com</td>
+	
+	<td>DALTON LOCKWOOD</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/26/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973025</td>
+	
+	<td>2895606</td>
+	
+	<td>KUBAT TRANSPORT</td>
+	<td></td>
+	<td>134 S 122ND STREET</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68154</td>
+	
+	<td>4023344883</td>
+	
+	<td>4023344883</td>
+	
+	<td>barrykubat@gmail.com</td>
+	
+	<td>BARRY J KUBAT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/04/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>4.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973077</td>
+	
+	<td>2895715</td>
+	
+	<td>DASH TRANSPORT LLC</td>
+	<td></td>
+	<td>906 WEST KOENIG ST</td>
+	<td>GRAND ISLAND</td>
+	<td>NE</td>
+	<td>68801</td>
+	
+	<td>3054923878</td>
+	
+	<td></td>
+	
+	<td>dashtransportcorp@gmail.com</td>
+	
+	<td>YOANDYS JOSE DIAZ ZAMORA</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/12/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>26.0</td>
+		
+		<td>0.76</td>
+		
+			<td>7.0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>5.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973194</td>
+	
+	<td>2865005</td>
+	
+	<td>L A & SONS FARM LLC</td>
+	<td>L A & SONS FARM</td>
+	<td>5411 DODGE RD</td>
+	<td>ALLIANCE</td>
+	<td>NE</td>
+	<td>69301-5846</td>
+	
+	<td>4027409943</td>
+	
+	<td></td>
+	
+	<td>my92civic@gmail.com</td>
+	
+	<td>LARRY LEE LUCE</td>
+	
+	<td>ADAM LUCE</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/17/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973294</td>
+	
+	<td>2896162</td>
+	
+	<td>E&K EXPRESS LLC</td>
+	<td></td>
+	<td>4021 LOWELL CIR STE 6</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68502</td>
+	
+	<td>5317394047</td>
+	
+	<td>4022060892</td>
+	
+	<td>ekexpressllc@yahoo.com</td>
+	
+	<td>KARRIS RENEE TOPLICA</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/22/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>6.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973386</td>
+	
+	<td>170892</td>
+	
+	<td>WAYNE & RALPH CORNELIUS INC</td>
+	<td></td>
+	<td>5731 S 60 RD</td>
+	<td>ALDA</td>
+	<td>NE</td>
+	<td>68810</td>
+	
+	<td>3083790705</td>
+	
+	<td>4023877238</td>
+	
+	<td>farmwife4ever@email.com</td>
+	
+	<td>RALPH R CORNELIUS</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/01/2016</td>
+	
+	<td>S</td>
+	
+	<td>08/18/2004</td>
+	
+			<td>2.5</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC973638</td>
+	
+	<td>2896737</td>
+	
+	<td>DUSTY TRUCKING LLC</td>
+	<td></td>
+	<td>4825 ROCA RD</td>
+	<td>ROCA</td>
+	<td>NE</td>
+	<td>68430</td>
+	
+	<td>4023182231</td>
+	
+	<td></td>
+	
+	<td>dustytruckingllc@yahoo.com</td>
+	
+	<td>DUSTIN RHOADES</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC974003</td>
+	
+	<td>2897414</td>
+	
+	<td>LEISURE PARTY BUS & LIMOUSINE INC</td>
+	<td></td>
+	<td>3333 POTOMAC DRIVE</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68516</td>
+	
+	<td>4023103584</td>
+	
+	<td></td>
+	
+	<td>hiebner@neb.rr.com</td>
+	
+	<td>LYNDON DALE HIEBNER</td>
+	
+	<td>LORI JEAN HIEBNER</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC974245</td>
+	
+	<td>1961784</td>
+	
+	<td>SNAKE CREEK TRUCKING LLC</td>
+	<td></td>
+	<td>609 MONTANA STREET</td>
+	<td>CLEARWATER</td>
+	<td>NE</td>
+	<td>68726-5300</td>
+	
+	<td>4027508684</td>
+	
+	<td>4024859276</td>
+	
+	<td>a_schlecht@yahoo.com</td>
+	
+	<td>ADAM SCHLECHT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/24/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC974503</td>
+	
+	<td>2898383</td>
+	
+	<td>OLLIN PETERSON TRUCKING LLC</td>
+	<td></td>
+	<td>48930 887TH RD</td>
+	<td>ONEILL</td>
+	<td>NE</td>
+	<td>68763</td>
+	
+	<td>4023366482</td>
+	
+	<td></td>
+	
+	<td>ollin_peterson@hotmail.com</td>
+	
+	<td>OLLIN PETERSON</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>06/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975126</td>
+	
+	<td>2899592</td>
+	
+	<td>ACS WINDOWS AND DOORS LLC</td>
+	<td></td>
+	<td>4517 GRAND AVE</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68104</td>
+	
+	<td>4025159040</td>
+	
+	<td></td>
+	
+	<td>acswindowsanddoors@gmail.com</td>
+	
+	<td>ADAM CHARLES SCHMIDT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/14/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975132</td>
+	
+	<td>2899612</td>
+	
+	<td>TOMAHAWK EXPRESS</td>
+	<td></td>
+	<td>300 E 4TH ST</td>
+	<td>BIG SPRINGS</td>
+	<td>NE</td>
+	<td>69122</td>
+	
+	<td>7205059640</td>
+	
+	<td>3088893259</td>
+	
+	<td>jdhaliwal@yahoo.com</td>
+	
+	<td>CHARANJIT S DHALIWAL</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975278</td>
+	
+	<td>846284</td>
+	
+	<td>MDH ENTERPRISES LLC</td>
+	<td>AIRGROUP EXPRESS</td>
+	<td>11516 NICHOLAS STREET SUITE 303</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68154</td>
+	
+	<td>4024511152</td>
+	
+	<td>4024517822</td>
+	
+	<td>jmorrison@criticalfreight.com</td>
+	
+	<td>JACK MORRISON</td>
+	
+	<td>BRENT DALY</td>
+	
+	<td>      5</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975306</td>
+	
+	<td>557092</td>
+	
+	<td>BRIAN AND JILL SASSE</td>
+	<td>SASSE TRUCKING</td>
+	<td>61256 72650 RD</td>
+	<td>TECUMSEH</td>
+	<td>NE</td>
+	<td>68450</td>
+	
+	<td>4022397255</td>
+	
+	<td>4023353995</td>
+	
+	<td>sassetrucking@hotmail.com</td>
+	
+	<td>BRIAN SASSE</td>
+	
+	<td>JILL SASSE</td>
+	
+	<td>      3</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>19.81</td>
+		
+		<td>1.74</td>
+		
+			<td>2.61</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>22.42</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975446</td>
+	
+	<td>2582301</td>
+	
+	<td>BASSETT TRUCKING LLC</td>
+	<td></td>
+	<td>1418 E 4TH STREET</td>
+	<td>FREMONT</td>
+	<td>NE</td>
+	<td>68025</td>
+	
+	<td>4027198170</td>
+	
+	<td></td>
+	
+	<td>bassetttrucking2000@gmail.com</td>
+	
+	<td>MATTHEW BASSETT</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/01/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>12.45</td>
+		
+		<td>1.74</td>
+		
+			<td>3.52</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0.33</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975488</td>
+	
+	<td>2900291</td>
+	
+	<td>ADAM FRANZEN</td>
+	<td>FRANZEN TRUCKING</td>
+	<td>1445 OSAGE ST</td>
+	<td>SIDNEY</td>
+	<td>NE</td>
+	<td>69162</td>
+	
+	<td>3074211689</td>
+	
+	<td></td>
+	
+	<td>csoller@centralstatesli.com</td>
+	
+	<td>ADAM E FRANZEN</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/18/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975832</td>
+	
+	<td>2153402</td>
+	
+	<td>CHRISTOPHER MOHLER</td>
+	<td>MQH & TRUCKING</td>
+	<td>1263 N COMMERCIAL ST</td>
+	<td>SUPERIOR</td>
+	<td>NE</td>
+	<td>68978</td>
+	
+	<td>4028791111</td>
+	
+	<td></td>
+	
+	<td>mqhtrucking@yahoo.com</td>
+	
+	<td>CHRISTOPHER MOHLER</td>
+	
+	<td>DEBORAH MOHLER</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/08/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975948</td>
+	
+	<td>2901188</td>
+	
+	<td>MALLORY TRANSPORT, LLC</td>
+	<td></td>
+	<td>15010 VERSAILLE ST</td>
+	<td>BELLEVUE</td>
+	<td>NE</td>
+	<td>68123</td>
+	
+	<td>4022931092</td>
+	
+	<td></td>
+	
+	<td>amall22712@aol.com</td>
+	
+	<td>ANDREW DAVIS MALLORY SR.</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/15/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC975999</td>
+	
+	<td>2901269</td>
+	
+	<td>CENTRAL STATES TRANSPORT, LLC</td>
+	<td></td>
+	<td>1745 N AIRPORT RD</td>
+	<td>FREMONT</td>
+	<td>NE</td>
+	<td>68025</td>
+	
+	<td>9375488400</td>
+	
+	<td>9375488514</td>
+	
+	<td>ben@transallianceonline.com</td>
+	
+	<td>BENJAMIN E GARBER</td>
+	
+	<td></td>
+	
+	<td>     17</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/20/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>1.94</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976118</td>
+	
+	<td>2901521</td>
+	
+	<td>JAY RADHE INC</td>
+	<td></td>
+	<td>74975 ROAD 444</td>
+	<td>OVERTON</td>
+	<td>NE</td>
+	<td>68863</td>
+	
+	<td>3084449466</td>
+	
+	<td></td>
+	
+	<td>abvi226@yahoo.com</td>
+	
+	<td>PARTH CHAUDHARI</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/31/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976269</td>
+	
+	<td>2893759</td>
+	
+	<td>T-RONE TRANSPORT, LLC</td>
+	<td></td>
+	<td>2311 S BLUFF RD</td>
+	<td>HOMER</td>
+	<td>NE</td>
+	<td>68030</td>
+	
+	<td>4026982046</td>
+	
+	<td>4026982457</td>
+	
+	<td>trone10@gmail.com</td>
+	
+	<td>TY E VANSCHOIACK</td>
+	
+	<td>WILLIAM B ROHDE</td>
+	
+	<td>      4</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/15/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976480</td>
+	
+	<td>2888542</td>
+	
+	<td>BLACKSMOKE VENTURES LLC</td>
+	<td></td>
+	<td>2201 3RD AVE</td>
+	<td>SCOTTSBLUFF</td>
+	<td>NE</td>
+	<td>69361-2032</td>
+	
+	<td>3082208742</td>
+	
+	<td></td>
+	
+	<td>andersontamela@gmail.com</td>
+	
+	<td>COURTNEY J MERRIGAN</td>
+	
+	<td>NATHANIEL B MERRIGAN</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976497</td>
+	
+	<td>2902255</td>
+	
+	<td>CORONA TRUCKING & TRANSPORTATION LLC</td>
+	<td></td>
+	<td>1319 SYLVAN ST</td>
+	<td>GRAND ISLAND</td>
+	<td>NE</td>
+	<td>68801</td>
+	
+	<td>3083700028</td>
+	
+	<td>8889901942</td>
+	
+	<td>mleal@clearpointaccounting.com</td>
+	
+	<td>MALCOLM LEAL-CASTANEDA</td>
+	
+	<td>ARNALDO CABALLERO CORONA</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/13/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>4.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976658</td>
+	
+	<td>2527003</td>
+	
+	<td>AJ HOFFMAN TRUCKING, LLC</td>
+	<td></td>
+	<td>51405 861ST RD</td>
+	<td>ORCHARD</td>
+	<td>NE</td>
+	<td>68764</td>
+	
+	<td>4028412285</td>
+	
+	<td></td>
+	
+	<td>aj.hoffman.09@gmail.com</td>
+	
+	<td>ALEX HOFFMAN</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>11.27</td>
+		
+		<td>1.74</td>
+		
+			<td>1.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC976909</td>
+	
+	<td>508843</td>
+	
+	<td>HITZ TOWING INC</td>
+	<td></td>
+	<td>1032 S LINCOLN AVE</td>
+	<td>YORK</td>
+	<td>NE</td>
+	<td>68467</td>
+	
+	<td>4023624256</td>
+	
+	<td>4023624256</td>
+	
+	<td></td>
+	
+	<td>JO HITZ</td>
+	
+	<td></td>
+	
+	<td>      9</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/14/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>2.54</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC977453</td>
+	
+	<td>2904127</td>
+	
+	<td>JAMES M STENNIS</td>
+	<td>STENNIS TRANSPORT SOLUTIONS</td>
+	<td>5002 YOUNG ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68152</td>
+	
+	<td>4027066210</td>
+	
+	<td></td>
+	
+	<td>nvstennis@cox.net</td>
+	
+	<td>JAMES M STENNIS</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC977539</td>
+	
+	<td>2904296</td>
+	
+	<td>DOUGLAS WEATHERSBY</td>
+	<td>BROKEN ROAD TRUCKING</td>
+	<td>601 S 13TH ST</td>
+	<td>NORFOLK</td>
+	<td>NE</td>
+	<td>68701</td>
+	
+	<td>4028416223</td>
+	
+	<td>4023790662</td>
+	
+	<td>adtattoos39@gmail.com</td>
+	
+	<td>DOUGLAS M WEATHERSBY</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/28/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>12.0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC977638</td>
+	
+	<td>2904515</td>
+	
+	<td>QUANTA MOTOR LINES INC</td>
+	<td></td>
+	<td>9300 PEARL DR</td>
+	<td>GRETNA</td>
+	<td>NE</td>
+	<td>68028</td>
+	
+	<td>4025044145</td>
+	
+	<td>4023325376</td>
+	
+	<td>lora@quantalogisticsinc.com</td>
+	
+	<td>LORA FISCHER</td>
+	
+	<td></td>
+	
+	<td>      3</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/26/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>6.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC977730</td>
+	
+	<td>2905148</td>
+	
+	<td>ARTISAN POOL AND SPA SUPPLIES L.L.C.</td>
+	<td>ARTISAN POOLS</td>
+	<td>20513 NICHOLAS CIR STE 2</td>
+	<td>ELKHORN</td>
+	<td>NE</td>
+	<td>68022</td>
+	
+	<td>4023124857</td>
+	
+	<td></td>
+	
+	<td>jen@artisanpools.net</td>
+	
+	<td>KC BARTH</td>
+	
+	<td>JENNIFER ANN BARTH</td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/30/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>1.0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>4.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC977821</td>
+	
+	<td>2893987</td>
+	
+	<td>BELAVIA AUTO TRANSPORT LLC</td>
+	<td></td>
+	<td>2411 SW PAUL WHITEHEAD LN</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68522</td>
+	
+	<td>9043336423</td>
+	
+	<td></td>
+	
+	<td>belaviaautotransport@gmail.com</td>
+	
+	<td>DARYA ZAKHARCHENIA</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978355</td>
+	
+	<td>2906648</td>
+	
+	<td>ROBERT PETERSON & PENNIE PETERSON</td>
+	<td>PETERSON FARMS</td>
+	<td>36268 ROAD 719</td>
+	<td>TRENTON</td>
+	<td>NE</td>
+	<td>69044</td>
+	
+	<td>3083404581</td>
+	
+	<td></td>
+	
+	<td>pbrown62@hotmail.com</td>
+	
+	<td>ROBERT J PETERSON</td>
+	
+	<td>PENNIE PETERSON</td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>9.5</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978378</td>
+	
+	<td>2906695</td>
+	
+	<td>FLATCREEK CONSTRUCTION LLC</td>
+	<td></td>
+	<td>2008 TRAIL DR</td>
+	<td>VALENTINE</td>
+	<td>NE</td>
+	<td>69201</td>
+	
+	<td>4023764939</td>
+	
+	<td></td>
+	
+	<td>darnoldisi@yahoo.com</td>
+	
+	<td>DAVID MICHAEL ARNOLD</td>
+	
+	<td>LUKE EDWARD ARNOLD</td>
+	
+	<td>      3</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978532</td>
+	
+	<td>2869116</td>
+	
+	<td>ELAINE SMITH</td>
+	<td>CST</td>
+	<td>1212 AVENUE D</td>
+	<td>GOTHENBURG</td>
+	<td>NE</td>
+	<td>69138-1645</td>
+	
+	<td>3085298785</td>
+	
+	<td></td>
+	
+	<td>csoller@centralstatesli.com</td>
+	
+	<td>ELAINE SMITH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>4.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978672</td>
+	
+	<td>2547782</td>
+	
+	<td>ROBERT R WENDTE</td>
+	<td>WENDTE</td>
+	<td>58930 HWY 35</td>
+	<td>EMERSON</td>
+	<td>NE</td>
+	<td>68733</td>
+	
+	<td>4026952851</td>
+	
+	<td></td>
+	
+	<td>gwendte@yahoo.com</td>
+	
+	<td>ROBERT WENDTE</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/28/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978746</td>
+	
+	<td>2907297</td>
+	
+	<td>ROCKY ROAD HAUL LLC</td>
+	<td></td>
+	<td>961 N 56TH ST</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68504</td>
+	
+	<td>4028028060</td>
+	
+	<td></td>
+	
+	<td>michael.jangir@rockyroadhaul.com</td>
+	
+	<td>MICHAEL JANGIR</td>
+	
+	<td>CARLO BERRY</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/28/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978850</td>
+	
+	<td>2903173</td>
+	
+	<td>YOUR OWN LIMOUSINE LITE LLC</td>
+	<td></td>
+	<td>823 12TH AVE</td>
+	<td>KEARNEY</td>
+	<td>NE</td>
+	<td>68845</td>
+	
+	<td>3082372981</td>
+	
+	<td>3082372981</td>
+	
+	<td>yourownlimo@hotmail.com</td>
+	
+	<td>ELENA SCHMIDT</td>
+	
+	<td>LARRY MAX SCHMIDT SR.</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>1500000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/16/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC978987</td>
+	
+	<td>2907749</td>
+	
+	<td>MOBILE DOMINATION LLC</td>
+	<td></td>
+	<td>13956 DUPONT PLZ APT 19</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68144</td>
+	
+	<td>3083253871</td>
+	
+	<td></td>
+	
+	<td>roadrunner197069@yahoo.com</td>
+	
+	<td>SHANNON G AITKEN</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC979128</td>
+	
+	<td>2869022</td>
+	
+	<td>CJ TRANSPORT LLC</td>
+	<td></td>
+	<td>1607 HILLVIEW DR</td>
+	<td>NORFOLK</td>
+	<td>NE</td>
+	<td>68701-2417</td>
+	
+	<td>4027501042</td>
+	
+	<td></td>
+	
+	<td>rckr_c@yahoo.com</td>
+	
+	<td>CODY D JENSEN</td>
+	
+	<td></td>
+	
+	<td>      5</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>07/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980037</td>
+	
+	<td>1072417</td>
+	
+	<td>GARY KOCH TRUCKING INC</td>
+	<td></td>
+	<td>812 W WALNUT ROAD</td>
+	<td>ODELL</td>
+	<td>NE</td>
+	<td>68415</td>
+	
+	<td>4027663601</td>
+	
+	<td></td>
+	
+	<td>gtkoch@diodecom.net</td>
+	
+	<td>TERESA KOCH</td>
+	
+	<td>TERESA F KOCH</td>
+	
+	<td>      6</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/05/2016</td>
+	
+	<td>S</td>
+	
+	<td>12/03/2013</td>
+	
+			<td>4.54</td>
+		
+		<td>1.74</td>
+		
+			<td>1.72</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>3.2</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980255</td>
+	
+	<td>2910094</td>
+	
+	<td>CHANDLER TRUCKING LLC</td>
+	<td></td>
+	<td>17501 W HIGHWAY 31</td>
+	<td>SPRINGFIELD</td>
+	<td>NE</td>
+	<td>68059</td>
+	
+	<td>4022179135</td>
+	
+	<td></td>
+	
+	<td>vstreeter@nebtrucking.com</td>
+	
+	<td>CHAD CHANDLER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>NOT ACCEPTABLE</td>
+	
+	<td>MC980269</td>
+	
+	<td>2910108</td>
+	
+	<td>ABUBAKAR BAKARI</td>
+	<td>BEST TRUCKING</td>
+	<td>2327 BENSON GARDENS BLVD APT 32</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68134</td>
+	
+	<td>5203317393</td>
+	
+	<td></td>
+	
+	<td>inahadad@yahoo.com</td>
+	
+	<td>ABUBAKAR BAKARI</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/07/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980325</td>
+	
+	<td>2910257</td>
+	
+	<td>NELLY TRUCKING LOGISTICS & TRANSPORTATION, LLC</td>
+	<td></td>
+	<td>3264 E 16TH AVE</td>
+	<td>COLUMBUS</td>
+	<td>NE</td>
+	<td>68601</td>
+	
+	<td>4022765389</td>
+	
+	<td>8889901498</td>
+	
+	<td>nellytrucking@gmx.com</td>
+	
+	<td>ANAISYS RODRIGUEZ RODRIGUEZ</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/21/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980379</td>
+	
+	<td>2910363</td>
+	
+	<td>GRAVES LOGISTICS LLC</td>
+	<td></td>
+	<td>5800 CAVVY RD</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68516</td>
+	
+	<td>4024207029</td>
+	
+	<td></td>
+	
+	<td>bgraves729@gmail.com</td>
+	
+	<td>ROBERT GRAVES</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/11/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980581</td>
+	
+	<td>2910757</td>
+	
+	<td>SD HAY HAULING LLC</td>
+	<td></td>
+	<td>1883 ROAD 16</td>
+	<td>HOWELLS</td>
+	<td>NE</td>
+	<td>68641</td>
+	
+	<td>4023804960</td>
+	
+	<td>4029861086</td>
+	
+	<td>jlau@nebtrucking.com</td>
+	
+	<td>STEVE DOSTAL</td>
+	
+	<td>DENISE DOSTAL</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC980896</td>
+	
+	<td>2911373</td>
+	
+	<td>EXCELLENT FREIGHT, LLC</td>
+	<td></td>
+	<td>2222 BELLWOOD DR APT 9</td>
+	<td>GRAND ISLAND</td>
+	<td>NE</td>
+	<td>68801</td>
+	
+	<td>3083808444</td>
+	
+	<td>8889901498</td>
+	
+	<td>industrial200308@gmail.com</td>
+	
+	<td>YUSNIEL CORREDERA RODRIGUEZ</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/14/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981053</td>
+	
+	<td>2911666</td>
+	
+	<td>GOOD TIMES LLC</td>
+	<td></td>
+	<td>47364 310TH AVE</td>
+	<td>HUMPHREY</td>
+	<td>NE</td>
+	<td>68642</td>
+	
+	<td>4029231036</td>
+	
+	<td>4029231036</td>
+	
+	<td>cmfoltz_us@yahoo.com</td>
+	
+	<td>MICHAEL FOLTZ</td>
+	
+	<td>CARMEN FOLTZ</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>1500000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/26/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981261</td>
+	
+	<td>2912074</td>
+	
+	<td>RDS TRUCKING LLC</td>
+	<td>ROGER SMITH TRUCKING</td>
+	<td>10032 S 170TH CIR</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68136</td>
+	
+	<td>4028053384</td>
+	
+	<td></td>
+	
+	<td>rogsmith1616@gmail.com</td>
+	
+	<td>ROGER SMITH</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981466</td>
+	
+	<td>2912502</td>
+	
+	<td>ZACH WATSON</td>
+	<td>WATSON TRUCKING</td>
+	<td>915 ODELL RD</td>
+	<td>DANNEBROG</td>
+	<td>NE</td>
+	<td>68831</td>
+	
+	<td>3085710800</td>
+	
+	<td></td>
+	
+	<td>zwats_2010@hotmail.com</td>
+	
+	<td>ZACH WATSON</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981594</td>
+	
+	<td>2912760</td>
+	
+	<td>BECK FINANCIAL GROUP LLC</td>
+	<td>PREMIER TRANSPORT</td>
+	<td>431 FLETCHER AVE APT 12</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68521</td>
+	
+	<td>3087462242</td>
+	
+	<td></td>
+	
+	<td>eric@pwsolutions.org</td>
+	
+	<td>ERIC BECK</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981841</td>
+	
+	<td>2053997</td>
+	
+	<td>LOGAN W DOWHY</td>
+	<td>DOWHY TOWING & RECOVERY</td>
+	<td>1932 2ND AVE</td>
+	<td>KEARNEY</td>
+	<td>NE</td>
+	<td>68845</td>
+	
+	<td>3086271880</td>
+	
+	<td>3082243830</td>
+	
+	<td>dowhytowing@gmail.com</td>
+	
+	<td>LOGAN DOWHY</td>
+	
+	<td></td>
+	
+	<td>      8</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/18/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>3.5</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC981909</td>
+	
+	<td>2913406</td>
+	
+	<td>SWT</td>
+	<td>SWT</td>
+	<td>1151 11TH ST</td>
+	<td>HENDERSON</td>
+	<td>NE</td>
+	<td>68371</td>
+	
+	<td>4025602419</td>
+	
+	<td>4026943405</td>
+	
+	<td>jasonmusiel@gmail.com</td>
+	
+	<td>JASON E MUSIEL</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>300000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/18/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982371</td>
+	
+	<td>2914374</td>
+	
+	<td>HILTNER TRUCKING, LLC</td>
+	<td></td>
+	<td>8762 36TH AVE</td>
+	<td>COLUMBUS</td>
+	<td>NE</td>
+	<td>68601</td>
+	
+	<td>4025646255</td>
+	
+	<td></td>
+	
+	<td>donnaj967@aol.com</td>
+	
+	<td>LEONARD N HILTNER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/31/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982468</td>
+	
+	<td>2914554</td>
+	
+	<td>ANGELA BLUM</td>
+	<td>A & A TRUCKING</td>
+	<td>54374 845 RD</td>
+	<td>MEADOW GROVE</td>
+	<td>NE</td>
+	<td>68752</td>
+	
+	<td>4026401298</td>
+	
+	<td></td>
+	
+	<td>atrucking11@yahoo.com</td>
+	
+	<td>ADAM AHLMAN</td>
+	
+	<td>ANGELA BLUM</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/19/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>15.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982610</td>
+	
+	<td>2792821</td>
+	
+	<td>JON T BECK</td>
+	<td>BECK TRUCKING</td>
+	<td>820 SOUTH MEYER AVE</td>
+	<td>NORTH PLATTE</td>
+	<td>NE</td>
+	<td>69101</td>
+	
+	<td>3085208518</td>
+	
+	<td></td>
+	
+	<td>jbeck69101@gmail.com</td>
+	
+	<td>JON T BECK</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982643</td>
+	
+	<td>2916147</td>
+	
+	<td>JF TRUCKING LLC</td>
+	<td></td>
+	<td>720 10TH ST</td>
+	<td>BEAVER CITY</td>
+	<td>NE</td>
+	<td>68926</td>
+	
+	<td>3082894404</td>
+	
+	<td></td>
+	
+	<td>jfrey1218@gmail.com</td>
+	
+	<td>WILLIAM R FREY</td>
+	
+	<td>JORDON W FREY</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/24/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982670</td>
+	
+	<td>2916206</td>
+	
+	<td>LARRY S RYAN</td>
+	<td>RYAN TRANSPORTATION</td>
+	<td>555 E ST</td>
+	<td>UNADILLA</td>
+	<td>NE</td>
+	<td>68454</td>
+	
+	<td>4022694150</td>
+	
+	<td></td>
+	
+	<td>meganryan001@gmail.com</td>
+	
+	<td>LARRY S RYAN</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982703</td>
+	
+	<td>2916274</td>
+	
+	<td>DNA TRUCKING LLC</td>
+	<td></td>
+	<td>6110 INVERNESS RD</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68512</td>
+	
+	<td>4026135519</td>
+	
+	<td></td>
+	
+	<td>smike.ks@gmail.com</td>
+	
+	<td>MYKHAILO SMYSHLIAIEV</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/27/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982724</td>
+	
+	<td>2825093</td>
+	
+	<td>LEON MATZNER</td>
+	<td>L M TRANSPORT</td>
+	<td>2370  476 RD</td>
+	<td>GRESHAM</td>
+	<td>NE</td>
+	<td>68367</td>
+	
+	<td>4027357444</td>
+	
+	<td></td>
+	
+	<td>ajanssen21@gmail.com</td>
+	
+	<td>LEON MATZNER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/25/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982785</td>
+	
+	<td>2916452</td>
+	
+	<td>CASEY DREW</td>
+	<td>GREAT DIVIDE TRUCKING</td>
+	<td>3801 ROKEBY RD</td>
+	<td>ROCA</td>
+	<td>NE</td>
+	<td>68430</td>
+	
+	<td>3082930686</td>
+	
+	<td></td>
+	
+	<td>greatdividetrucking@gmail.com</td>
+	
+	<td>CASEY DREW</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/07/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC982794</td>
+	
+	<td>2916474</td>
+	
+	<td>BENJAMIN ZAREK</td>
+	<td>BEN ZAREK TRUCKING</td>
+	<td>3016 13TH ST</td>
+	<td>COLUMBUS</td>
+	<td>NE</td>
+	<td>68601</td>
+	
+	<td>4022703609</td>
+	
+	<td></td>
+	
+	<td>nicolezarek@hotmail.com</td>
+	
+	<td>BENJAMIN DANIEL ZAREK SR.</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/04/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC983251</td>
+	
+	<td>2917418</td>
+	
+	<td>JUSTIN LANGLEY</td>
+	<td>JUSTIN LANGLEY TRUCKING</td>
+	<td>8981 ROAD 18</td>
+	<td>SIDNEY</td>
+	<td>NE</td>
+	<td>69162</td>
+	
+	<td>3082496167</td>
+	
+	<td></td>
+	
+	<td>jslangley78@gmail.com</td>
+	
+	<td>JUSTIN SHANE LANGLEY</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/31/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC983458</td>
+	
+	<td>2917843</td>
+	
+	<td>SEABAUGH TRUCKING LLC</td>
+	<td></td>
+	<td>411 PLUM STREET</td>
+	<td>MAYWOOD</td>
+	<td>NE</td>
+	<td>69038</td>
+	
+	<td>5732086772</td>
+	
+	<td></td>
+	
+	<td>seabaughfarm@gmail.com</td>
+	
+	<td>MARK WAYNE SEABAUGH</td>
+	
+	<td>JANINE SEABAUGH</td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/03/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC983509</td>
+	
+	<td>2917956</td>
+	
+	<td>LONGHAUL TRANSPORT, LLC</td>
+	<td></td>
+	<td>5610 NW FAIRWAY DR</td>
+	<td>LINCOLN</td>
+	<td>NE</td>
+	<td>68521</td>
+	
+	<td>4026131857</td>
+	
+	<td></td>
+	
+	<td>jaskohurko@gmail.com</td>
+	
+	<td>ASMIR HURKO</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>08/31/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>9.0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>30.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC983731</td>
+	
+	<td>2495374</td>
+	
+	<td>HUNKE AG & REPAIR LLC</td>
+	<td></td>
+	<td>217 N 7TH STREET</td>
+	<td>HOWELLS</td>
+	<td>NE</td>
+	<td>68641</td>
+	
+	<td>4023800851</td>
+	
+	<td></td>
+	
+	<td>redpower4u@hotmail.com</td>
+	
+	<td>DALE HUNKE</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>14.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC984119</td>
+	
+	<td>1321108</td>
+	
+	<td>MONTY PIEPER</td>
+	<td>PIEPER TRUCKING</td>
+	<td>107 W. OAK ST</td>
+	<td>MAYWOOD</td>
+	<td>NE</td>
+	<td>69038</td>
+	
+	<td>4027637457</td>
+	
+	<td>3083624809</td>
+	
+	<td>montyjpieper@yahoo.com</td>
+	
+	<td>MONTY PIEPER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/20/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC984368</td>
+	
+	<td>1022146</td>
+	
+	<td>ATKINSON FEED & SUPPLY INC</td>
+	<td></td>
+	<td>47653 876 ROAD</td>
+	<td>ATKINSON</td>
+	<td>NE</td>
+	<td>68713</td>
+	
+	<td>4029255563</td>
+	
+	<td>4029252820</td>
+	
+	<td>atkinsonfeedandsupply@yahoo.com</td>
+	
+	<td>JOHN LAETSCH</td>
+	
+	<td>ADELENE LAETSCH</td>
+	
+	<td>     10</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/02/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>1.28</td>
+		
+		<td>1.74</td>
+		
+			<td>1.72</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>17.8</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC984908</td>
+	
+	<td>2920673</td>
+	
+	<td>BUSHNELL TRUCKING LLC</td>
+	<td></td>
+	<td>208 E HEBRON AVE</td>
+	<td>DESHLER</td>
+	<td>NE</td>
+	<td>68340</td>
+	
+	<td>4027681724</td>
+	
+	<td></td>
+	
+	<td>sjbushnell77@gmail.com</td>
+	
+	<td>JASON BUSHNELL</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/30/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC985601</td>
+	
+	<td>2168876</td>
+	
+	<td>FRANK P CINEXI</td>
+	<td>DOUBLE F TRUCKING</td>
+	<td>614 E 4TH ST</td>
+	<td>STROMSBURG</td>
+	<td>NE</td>
+	<td>68666</td>
+	
+	<td>4024184236</td>
+	
+	<td></td>
+	
+	<td>ajanssen21@gmail.com</td>
+	
+	<td>FRANK P CINEXI</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/29/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC986140</td>
+	
+	<td>2921086</td>
+	
+	<td>WARD TRUCKING LLC</td>
+	<td></td>
+	<td>1104 F ST</td>
+	<td>FAIRBURY</td>
+	<td>NE</td>
+	<td>68352-1620</td>
+	
+	<td>4025871198</td>
+	
+	<td></td>
+	
+	<td>wardtrucking2016@gmail.com</td>
+	
+	<td>PAUL Q WARD</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/16/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC986418</td>
+	
+	<td>2924156</td>
+	
+	<td>SAMCOT TRANSPORT LLC</td>
+	<td></td>
+	<td>2222 BELLWOOD DR APT 90</td>
+	<td>GRAND ISLAND</td>
+	<td>NE</td>
+	<td>68801</td>
+	
+	<td>3088504225</td>
+	
+	<td>8889901498</td>
+	
+	<td>samcot@clearpointaccounting.com</td>
+	
+	<td>JESUS FERNANDEZ DE ARMAS</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/13/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC987163</td>
+	
+	<td>1415202</td>
+	
+	<td>THOMAS OILFIELD SERVICE LLC</td>
+	<td></td>
+	<td>10795 RD 28</td>
+	<td>SIDNEY</td>
+	<td>NE</td>
+	<td>69162</td>
+	
+	<td>3082542160</td>
+	
+	<td></td>
+	
+	<td>thomasweldingservice@yahoo.com</td>
+	
+	<td>DUSTIN THOMAS</td>
+	
+	<td>RENEE THOMAS</td>
+	
+	<td>     12</td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/23/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC988091</td>
+	
+	<td>2927483</td>
+	
+	<td>KING STORAGE & TRANSPORTATION LLC</td>
+	<td></td>
+	<td>3716 N 44TH ST</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68111</td>
+	
+	<td>2142237741</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC988134</td>
+	
+	<td>2927577</td>
+	
+	<td>STEVEN THOMAS</td>
+	<td>THOMAS TRUCKING</td>
+	<td>198 COUNTY RD 19</td>
+	<td>CRAIG</td>
+	<td>NE</td>
+	<td>68019</td>
+	
+	<td>4052830698</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/17/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC988378</td>
+	
+	<td>2928070</td>
+	
+	<td>STAMPEDE 4 U LLC</td>
+	<td></td>
+	<td>11206 SEWARD PLZ APT 2221</td>
+	<td>OMAHA</td>
+	<td>NE</td>
+	<td>68154</td>
+	
+	<td>4026201182</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>09/30/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC988568</td>
+	
+	<td>773203</td>
+	
+	<td>MNL TRUCKING, INC</td>
+	<td></td>
+	<td>23663 242ND AVE</td>
+	<td>COLUMBUS</td>
+	<td>NE</td>
+	<td>68601</td>
+	
+	<td>4025644424</td>
+	
+	<td>4025647213</td>
+	
+	<td>mjlindh@frontiernet.net</td>
+	
+	<td>NICOLE LINDHORST</td>
+	
+	<td>MARK LINDHORST</td>
+	
+	<td>      8</td>
+	
+	<td></td>
+	<td>N</td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/05/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>5.0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC988798</td>
+	
+	<td>2929210</td>
+	
+	<td>JESSE SVEHLA</td>
+	<td>SVEHLA TRUCKING</td>
+	<td>1485 ROAD T</td>
+	<td>HOWELLS</td>
+	<td>NE</td>
+	<td>68641</td>
+	
+	<td>4027509211</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/06/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+<tr>
+	
+	<td>ACCEPTABLE</td>
+	
+	<td>MC989990</td>
+	
+	<td>2931594</td>
+	
+	<td>P A C T LLC</td>
+	<td></td>
+	<td>450 REPUBLICAN</td>
+	<td>GUIDE ROCK</td>
+	<td>NE</td>
+	<td>68942</td>
+	
+	<td>4022572012</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/14/2016</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+			<td>0</td>
+		
+		<td>1.74</td>
+		
+			<td>0</td>
+		
+		<td>0.76</td>
+		
+			<td>0</td>
+		
+		<td>0.18</td>
+		
+			<td>0</td>
+		
+		<td>0.0080</td>
+		
+			<td>0</td>
+		
+		<td>3.5</td>
+	
+	<td>10/17/2016</td>
+</tr>
+
+</table>

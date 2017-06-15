@@ -1,0 +1,31 @@
+TO: sousley@transfac.com                                   
+Content-Type: Text
+Content-length: 003752
+
+                                                                                                                                    
+Program-id: FAX001                                                                                                                  
+ACCOUNT# 110845                                                                                                      PAGE NO#:   1  
+BRANCH#       1                                                                                                      DATE:05/06/17  
+                                                                                                                                    
+MAIL TO:     TRANSFAC CAPITAL LLC                                             ACCOUNT NUMBER:  110845      STATEME DATE : 05/05/17  
+             257 EAST 200 SOUTH - STE                                         BRANCH  NUMBER:       1      REFERENCE NO#:  2017125  
+             SALT LAKE CITY, UT       84111                                                                                         
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ CARD   UNIT   AUTH    PURCHASE   TRUCK      TRUCKSTOP       PD QTY/OR  PROD  PRICE PD QTY/OR  PROD  SALES INVOICE    FEE/  AMOUNT  
+NUMBER NUMBER  CODE      DATE     STOP#   NAME/CITY/STATE    CD NUMBER AMOUNT  GAL  CD NUMBER AMOUNT  TAX   AMOUNT      DSC    DUE  
+----------------------------------------------------------------------------------------------------------------------------------  
+                                                                                         FUEL CARD CHARGES TODAY             0.00   
+   TOTAL CHARGES    -EFS FUNDED               TRANSACTION FEES -EFS FUNDED               FUEL CARD CHARGES-EFS FUNDED        0.00   
+   TOTAL CHARGES    -DIRECT                   TRANSACTION FEES -DIRECT                   FUEL CARD CHARGES-DIRECT            0.00   
+*  PRODUCT SUMMARY FOR TRANSACTIONS                                                                                                 
+FUEL.GALLONS       0.00   NH.DSL.GALS      0.00   NH.GAS.GALS      0.00   ADDITIVES...$      0.00   MINOR.PARTS.$      0.00         
+FUEL.DOLLARS$      0.00   NONHWY.DSL$      0.00   NONHWY.GAS$      0.00   SCALES......$      0.00   MINOR.REPAIR$      0.00         
+AVERAGE.PRICE/GAL 0.000   OIL.......$      0.00   CASH.ADV..$      0.00   TIRE.REPAIR.$      0.00   SALES TAX...$      0.00         
+TOTAL FEES       0.00       TOTAL DISCOUNTS       0.00                TRANSCHK CASH...$      0.00   DEF.........$      0.00         
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                PAY THIS AMOUNT:          0.00                                                      
+                                                                                                                                    
