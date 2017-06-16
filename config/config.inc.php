@@ -44,13 +44,13 @@ $HELPDESK_SUPPORT_EMAIL_REPLY = '';
   db_name
  */
 
-$dbconfig['db_server'] = 'localhost';
-$dbconfig['db_port'] = '3306';
-$dbconfig['db_username'] = 'ccapooth';
-$dbconfig['db_password'] = 'De847772';
-$dbconfig['db_name'] = 'tfc_yeti_prod';
-$dbconfig['db_type'] = 'mysql';
-$dbconfig['db_status'] = 'true';
+$dbconfig['db_server'] = 'hidden';
+$dbconfig['db_port'] = 'hidden';
+$dbconfig['db_username'] = 'hidden';
+$dbconfig['db_password'] = 'hidden';
+$dbconfig['db_name'] = 'hidden';
+$dbconfig['db_type'] = 'hidden';
+$dbconfig['db_status'] = 'hidden';
 
 $dbconfig['db_hostname'] = $dbconfig['db_server'] . ':' . $dbconfig['db_port'];
 
